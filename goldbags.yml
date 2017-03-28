@@ -1,0 +1,8 @@
+##This is where the locations for the gold sacks go##
+##Make sure that the small sacks are easier to find then the large ones##
+   sackgrade1: 
+#Gevasa
+    -    area: -147,79,14
+   sackgrade2:
+#Gevasa
+    -    area: -323,99,29
